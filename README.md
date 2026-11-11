@@ -1,1 +1,1 @@
-# Projeto-A3-IA-para-Qualidade-do-Ar-e-gua
+# Projeto-A3-IA-para-Qualidade-do-Ar-e-Agua
